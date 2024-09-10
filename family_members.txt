@@ -1,0 +1,11 @@
+S.No.*family_member*Relation
+1*Md. Ali*Father
+2*Balkis Jaha*Mother
+3*Shahanaz BegumS*Sister
+4*Abdul Haffiz*Brother_in_law
+5*Afzal Shaw*Brother
+6*Arifa*Sister_in_law
+7*Shamshad*Me
+8*Md. Karamatulla*Husband
+9*Abidunnisa*Daughter
+10*Shahanaz Banu*Daughter
